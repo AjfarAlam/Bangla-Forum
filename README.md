@@ -15,13 +15,15 @@
 **Bangla Forum** is a full-stack web forum built using **Laravel**, designed to run locally via XAMPP. Users can register, create posts, categorize them, and mark posts as solved or unsolved. It demonstrates practical experience with **full-stack web development** and **PHP-Laravel ecosystem**.
 
 ## Features
-- User authentication (Register, Login, Logout)  
-- Post management with categories  
-- Mark posts as solved or unsolved  
-- Interactive forum system  
+- User authentication and profile management  
+- Post creation and management  
+- Commenting and interactive forum features  
+- Search and filter posts by category  
+- Mark posts as solved/unsolved  
+- Follower and post counts for engagement   
 
 ## Tech Stack
-- **Backend:** PHP, Laravel  
+- **Backend:** PHP,SQL, Laravel  
 - **Frontend:** HTML, CSS, JavaScript  
 - **Database:** MySQL  
 
