@@ -1,3 +1,35 @@
+<p align="center">
+  <a href="https://github.com/AjfarAlam/Bangla-Forum" target="_blank">
+    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="300" alt="Laravel Logo">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AjfarAlam/Bangla-Forum"><img src="https://img.shields.io/badge/GitHub-Project-blue?style=flat-square" alt="GitHub Project"></a>
+  <a href="https://github.com/AjfarAlam/Bangla-Forum/stargazers"><img src="https://img.shields.io/github/stars/AjfarAlam/Bangla-Forum?style=flat-square" alt="GitHub stars"></a>
+  <a href="https://github.com/AjfarAlam/Bangla-Forum/network/members"><img src="https://img.shields.io/github/forks/AjfarAlam/Bangla-Forum?style=flat-square" alt="GitHub forks"></a>
+</p>
+
+# Bangla Forum
+
+**Bangla Forum** is a full-stack web forum built using **Laravel**, designed to run locally via XAMPP. Users can register, create posts, categorize them, and mark posts as solved or unsolved. It demonstrates practical experience with **full-stack web development** and **PHP-Laravel ecosystem**.
+
+## Features
+- User authentication (Register, Login, Logout)  
+- Post management with categories  
+- Mark posts as solved or unsolved  
+- Interactive forum system  
+
+## Tech Stack
+- **Backend:** PHP, Laravel  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Database:** MySQL  
+
+## Setup Instructions
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/AjfarAlam/Bangla-Forum.git
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
